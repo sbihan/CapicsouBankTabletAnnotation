@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="widthBody">
+    	<item name="android:layout_width">1000dip</item> 
+    </style>
+    
+    <style name="widthLogin">
+    	<item name="android:layout_width">500dip</item> 
+    </style>
+
+</resources>

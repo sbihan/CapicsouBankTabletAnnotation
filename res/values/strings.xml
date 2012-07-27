@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">CapicsouBank</string>
+    
+    <string name="button_connection">Connexion</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="formConnectionTitle">Connexion</string>
+    <string name="formConnectionError">Ces identifiants n\'existent pas !</string>
+    
+    <string name="accountsTitle">Vos comptes</string>
+    <string name="idAccounts">#</string>
+    <string name="labelAccounts">Label</string>
+    <string name="balanceAccounts">Solde (₵)</string>
+    
+    <string name="transferTitle">Transfert</string>
+    <string name="sourceAccount">Compte source</string>
+    <string name="destinationAccount">Compte destination</string>
+    <string name="amount">Montant</string>
+    <string name="buttonTransfer">Transférer</string>
+    <string name="currency">₵</string>
+    <string name="transferError">Erreur lors du transfert !</string>
+    <string name="transferFinished">Le transfert s\'est bien déroulé</string>
+    
+    <string name="accountsMenu">Comptes</string>
+    <string name="transferMenu">Transfert</string>
+    <string name="deconnectionMenu">Déconnexion</string>
+
+</resources>

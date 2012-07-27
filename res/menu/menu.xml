@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_accounts"
+          android:title="@string/accountsMenu"
+          android:icon="@drawable/glyphicons_037_credit"
+          android:showAsAction="always|withText" />
+    <item android:id="@+id/menu_transfer"
+          android:title="@string/transferMenu"
+          android:icon="@drawable/glyphicons_152_new_window"
+          android:showAsAction="always|withText" />
+    <item android:id="@+id/menu_deconnection"
+          android:title="@string/deconnectionMenu"
+          android:icon="@drawable/glyphicons_063_power"
+          android:showAsAction="always|withText" />
+</menu>
