@@ -14,7 +14,7 @@ import android.view.View;
 
 public class DoConnection extends AsyncTask<String, Integer, Boolean> {
 
-	private static final String URL_CONNECTION = "http://192.168.10.128:8080/capicsou-bank-webservices-rest/login";
+	private static final String URL_CONNECTION = "http://192.168.11.12:8080/capicsou-bank-webservices-rest/login";
 
 	private MainActivity activity;
 

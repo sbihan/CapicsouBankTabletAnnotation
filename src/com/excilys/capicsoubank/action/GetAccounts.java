@@ -18,7 +18,7 @@ import android.view.View;
 
 public class GetAccounts extends AsyncTask<String, Integer, AccountDTO[]> {
 
-	private static final String URL_ACCOUNTS = "http://192.168.10.128:8080/capicsou-bank-webservices-rest/user/accounts";
+	private static final String URL_ACCOUNTS = "http://192.168.11.12:8080/capicsou-bank-webservices-rest/user/accounts";
 
 	private AccountGetterActivity activity;
 

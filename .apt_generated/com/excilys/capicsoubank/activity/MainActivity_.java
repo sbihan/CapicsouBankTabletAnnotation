@@ -33,8 +33,8 @@ public final class MainActivity_
     }
 
     private void afterSetContentView_() {
-        passwordInput = ((EditText) findViewById(id.password));
         usernameInput = ((EditText) findViewById(id.username));
+        passwordInput = ((EditText) findViewById(id.password));
         {
             View view = findViewById(id.connectionButton);
             if (view!= null) {

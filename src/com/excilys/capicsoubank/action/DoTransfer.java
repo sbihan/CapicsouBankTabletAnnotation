@@ -17,7 +17,7 @@ import android.view.View;
 
 public class DoTransfer extends AsyncTask<String, Integer, Boolean> {
 
-	private static final String URL_TRANSFER = "http://192.168.10.128:8080/capicsou-bank-webservices-rest/transfer";
+	private static final String URL_TRANSFER = "http://192.168.11.12:8080/capicsou-bank-webservices-rest/transfer";
 
 	private DisplayTransferActivity activity;
 

@@ -38,10 +38,10 @@ public final class DisplayTransferActivity_
     private void afterSetContentView_() {
         transferError = ((View) findViewById(id.transferError));
         sourceAccount = ((Spinner) findViewById(id.sourceAccount));
-        transferForm = ((View) findViewById(id.transferForm));
-        amountEdit = ((EditText) findViewById(id.amount));
-        transferFinished = ((View) findViewById(id.transferFinished));
         destinationAccount = ((Spinner) findViewById(id.destinationAccount));
+        transferForm = ((View) findViewById(id.transferForm));
+        transferFinished = ((View) findViewById(id.transferFinished));
+        amountEdit = ((EditText) findViewById(id.amount));
         {
             View view = findViewById(id.buttonTransfer);
             if (view!= null) {
